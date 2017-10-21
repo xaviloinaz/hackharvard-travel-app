@@ -12,7 +12,7 @@ import SendBirdSDK
 class ChatViewController: UIViewController {
     
     
-    var x = SBDMain.initWithApplicationId(477CA6DB-0235-4E49-9ADE-4FA89575EF65)
+    // var x = SBDMain.initWithApplicationId(477CA6DB-0235-4E49-9ADE-4FA89575EF65)
     
     override func viewDidLoad() {
         super.viewDidLoad()
