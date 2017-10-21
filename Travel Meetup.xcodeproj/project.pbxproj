@@ -1,1558 +1,734 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>06EE0766B3AB038E76772607</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Travel MeetupTests.release.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-Travel MeetupTests/Pods-Travel MeetupTests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0EB3DB37072BD57822365F91</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Travel MeetupUITests.debug.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-Travel MeetupUITests/Pods-Travel MeetupUITests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0F97EECB0D5ED2AF4012544D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Travel Meetup.release.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3A026AB2C1E47563AC72E0AD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DF0A25E6725777BF8E4BB789</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BCFA1F9ADE22000667C6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>47D6BD051F9ADE22000667C6</string>
-				<string>47D6BD1A1F9ADE22000667C6</string>
-				<string>47D6BD251F9ADE22000667C6</string>
-				<string>47D6BD041F9ADE22000667C6</string>
-				<string>A68E0D832E3A99523E861C4C</string>
-				<string>E6D55ABC0321DFF85FAF3A3D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BCFB1F9ADE22000667C6</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0830</string>
-				<key>LastUpgradeCheck</key>
-				<string>0830</string>
-				<key>ORGANIZATIONNAME</key>
-				<string>Xavi Loinaz</string>
-				<key>TargetAttributes</key>
-				<dict>
-					<key>47D6BD021F9ADE22000667C6</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.3.3</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-					</dict>
-					<key>47D6BD161F9ADE22000667C6</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.3.3</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-						<key>TestTargetID</key>
-						<string>47D6BD021F9ADE22000667C6</string>
-					</dict>
-					<key>47D6BD211F9ADE22000667C6</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.3.3</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-						<key>TestTargetID</key>
-						<string>47D6BD021F9ADE22000667C6</string>
-					</dict>
-				</dict>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>47D6BCFE1F9ADE22000667C6</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-				<string>Base</string>
-			</array>
-			<key>mainGroup</key>
-			<string>47D6BCFA1F9ADE22000667C6</string>
-			<key>productRefGroup</key>
-			<string>47D6BD041F9ADE22000667C6</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>47D6BD021F9ADE22000667C6</string>
-				<string>47D6BD161F9ADE22000667C6</string>
-				<string>47D6BD211F9ADE22000667C6</string>
-			</array>
-		</dict>
-		<key>47D6BCFE1F9ADE22000667C6</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>47D6BD291F9ADE22000667C6</string>
-				<string>47D6BD2A1F9ADE22000667C6</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>47D6BCFF1F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>47D6BD3B1F9AF40D000667C6</string>
-				<string>47D6BD371F9AF333000667C6</string>
-				<string>47D6BD091F9ADE22000667C6</string>
-				<string>47D6BD3D1F9AF447000667C6</string>
-				<string>7FEE79BC1F9AFDBB0018491A</string>
-				<string>47D6BD351F9AF29F000667C6</string>
-				<string>47D6BD391F9AF3C7000667C6</string>
-				<string>47D6BD071F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD001F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>3A026AB2C1E47563AC72E0AD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD011F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>47D6BD111F9ADE22000667C6</string>
-				<string>47D6BD0E1F9ADE22000667C6</string>
-				<string>47D6BD0C1F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD021F9ADE22000667C6</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>47D6BD2B1F9ADE22000667C6</string>
-			<key>buildPhases</key>
-			<array>
-				<string>CE548D278BB9F88811199357</string>
-				<string>47D6BCFF1F9ADE22000667C6</string>
-				<string>47D6BD001F9ADE22000667C6</string>
-				<string>47D6BD011F9ADE22000667C6</string>
-				<string>CAB1BDA08BBA35C409260E45</string>
-				<string>D7980A9AE42D1168336FCCCE</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Travel Meetup</string>
-			<key>productName</key>
-			<string>Travel Meetup</string>
-			<key>productReference</key>
-			<string>47D6BD031F9ADE22000667C6</string>
-			<key>productType</key>
-			<string>com.apple.product-type.application</string>
-		</dict>
-		<key>47D6BD031F9ADE22000667C6</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.application</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Travel Meetup.app</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>47D6BD041F9ADE22000667C6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>47D6BD031F9ADE22000667C6</string>
-				<string>47D6BD171F9ADE22000667C6</string>
-				<string>47D6BD221F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD051F9ADE22000667C6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>47D6BD061F9ADE22000667C6</string>
-				<string>47D6BD081F9ADE22000667C6</string>
-				<string>47D6BD0A1F9ADE22000667C6</string>
-				<string>47D6BD3C1F9AF447000667C6</string>
-				<string>47D6BD3A1F9AF40D000667C6</string>
-				<string>47D6BD381F9AF3C7000667C6</string>
-				<string>47D6BD361F9AF333000667C6</string>
-				<string>47D6BD341F9AF29F000667C6</string>
-				<string>47D6BD0D1F9ADE22000667C6</string>
-				<string>47D6BD0F1F9ADE22000667C6</string>
-				<string>47D6BD121F9ADE22000667C6</string>
-				<string>7FEE79BB1F9AFDBB0018491A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Travel Meetup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD061F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>AppDelegate.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD071F9ADE22000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD061F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD081F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>ViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD091F9ADE22000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD081F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD0A1F9ADE22000667C6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>47D6BD0B1F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>Main.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD0B1F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.storyboard</string>
-			<key>name</key>
-			<string>Base</string>
-			<key>path</key>
-			<string>Base.lproj/Main.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD0C1F9ADE22000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD0A1F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD0D1F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>folder.assetcatalog</string>
-			<key>path</key>
-			<string>Assets.xcassets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD0E1F9ADE22000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD0D1F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD0F1F9ADE22000667C6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>47D6BD101F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>LaunchScreen.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD101F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.storyboard</string>
-			<key>name</key>
-			<string>Base</string>
-			<key>path</key>
-			<string>Base.lproj/LaunchScreen.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD111F9ADE22000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD0F1F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD121F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD131F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>47D6BD1C1F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD141F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>57B7BE73B772B03F2E0CE03F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD151F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD161F9ADE22000667C6</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>47D6BD2E1F9ADE22000667C6</string>
-			<key>buildPhases</key>
-			<array>
-				<string>B264AC699CE896EAA45CD95B</string>
-				<string>47D6BD131F9ADE22000667C6</string>
-				<string>47D6BD141F9ADE22000667C6</string>
-				<string>47D6BD151F9ADE22000667C6</string>
-				<string>8791F8412D1FCF0F943ED5D2</string>
-				<string>C62B047196F142C4AACDAB5E</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>47D6BD191F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Travel MeetupTests</string>
-			<key>productName</key>
-			<string>Travel MeetupTests</string>
-			<key>productReference</key>
-			<string>47D6BD171F9ADE22000667C6</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle.unit-test</string>
-		</dict>
-		<key>47D6BD171F9ADE22000667C6</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Travel MeetupTests.xctest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>47D6BD181F9ADE22000667C6</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>47D6BCFB1F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>47D6BD021F9ADE22000667C6</string>
-			<key>remoteInfo</key>
-			<string>Travel Meetup</string>
-		</dict>
-		<key>47D6BD191F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>47D6BD021F9ADE22000667C6</string>
-			<key>targetProxy</key>
-			<string>47D6BD181F9ADE22000667C6</string>
-		</dict>
-		<key>47D6BD1A1F9ADE22000667C6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>47D6BD1B1F9ADE22000667C6</string>
-				<string>47D6BD1D1F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Travel MeetupTests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD1B1F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>Travel_MeetupTests.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD1C1F9ADE22000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD1B1F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD1D1F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD1E1F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>47D6BD271F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD1F1F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>EE4E9BB52D6C1674567B95D1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD201F9ADE22000667C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>47D6BD211F9ADE22000667C6</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>47D6BD311F9ADE22000667C6</string>
-			<key>buildPhases</key>
-			<array>
-				<string>D5B3E016B5BE231D480D5D89</string>
-				<string>47D6BD1E1F9ADE22000667C6</string>
-				<string>47D6BD1F1F9ADE22000667C6</string>
-				<string>47D6BD201F9ADE22000667C6</string>
-				<string>FE73B8A0906074120ACE3D53</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>47D6BD241F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Travel MeetupUITests</string>
-			<key>productName</key>
-			<string>Travel MeetupUITests</string>
-			<key>productReference</key>
-			<string>47D6BD221F9ADE22000667C6</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle.ui-testing</string>
-		</dict>
-		<key>47D6BD221F9ADE22000667C6</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Travel MeetupUITests.xctest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>47D6BD231F9ADE22000667C6</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>47D6BCFB1F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>47D6BD021F9ADE22000667C6</string>
-			<key>remoteInfo</key>
-			<string>Travel Meetup</string>
-		</dict>
-		<key>47D6BD241F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>47D6BD021F9ADE22000667C6</string>
-			<key>targetProxy</key>
-			<string>47D6BD231F9ADE22000667C6</string>
-		</dict>
-		<key>47D6BD251F9ADE22000667C6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>47D6BD261F9ADE22000667C6</string>
-				<string>47D6BD281F9ADE22000667C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Travel MeetupUITests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD261F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>Travel_MeetupUITests.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD271F9ADE22000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD261F9ADE22000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD281F9ADE22000667C6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD291F9ADE22000667C6</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_DOCUMENTATION_COMMENTS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INFINITE_RECURSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_SUSPICIOUS_MOVE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>ENABLE_TESTABILITY</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>10.3</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SWIFT_ACTIVE_COMPILATION_CONDITIONS</key>
-				<string>DEBUG</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>47D6BD2A1F9ADE22000667C6</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_DOCUMENTATION_COMMENTS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INFINITE_RECURSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_SUSPICIOUS_MOVE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>10.3</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Owholemodule</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>47D6BD2B1F9ADE22000667C6</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>47D6BD2C1F9ADE22000667C6</string>
-				<string>47D6BD2D1F9ADE22000667C6</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>47D6BD2C1F9ADE22000667C6</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>DD484CC4B070CEBD647EFEE8</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>DEVELOPMENT_TEAM</key>
-				<string></string>
-				<key>INFOPLIST_FILE</key>
-				<string>Travel Meetup/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>xyz.xaviloinaz.Travel-Meetup</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>47D6BD2D1F9ADE22000667C6</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>0F97EECB0D5ED2AF4012544D</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>DEVELOPMENT_TEAM</key>
-				<string></string>
-				<key>INFOPLIST_FILE</key>
-				<string>Travel Meetup/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>xyz.xaviloinaz.Travel-Meetup</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>47D6BD2E1F9ADE22000667C6</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>47D6BD2F1F9ADE22000667C6</string>
-				<string>47D6BD301F9ADE22000667C6</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>47D6BD2F1F9ADE22000667C6</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>FAC4E0DD1964AE908727935A</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES</key>
-				<string>YES</string>
-				<key>BUNDLE_LOADER</key>
-				<string>$(TEST_HOST)</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Travel MeetupTests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>xyz.xaviloinaz.Travel-MeetupTests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-				<key>TEST_HOST</key>
-				<string>$(BUILT_PRODUCTS_DIR)/Travel Meetup.app/Travel Meetup</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>47D6BD301F9ADE22000667C6</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>06EE0766B3AB038E76772607</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES</key>
-				<string>YES</string>
-				<key>BUNDLE_LOADER</key>
-				<string>$(TEST_HOST)</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Travel MeetupTests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>xyz.xaviloinaz.Travel-MeetupTests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-				<key>TEST_HOST</key>
-				<string>$(BUILT_PRODUCTS_DIR)/Travel Meetup.app/Travel Meetup</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>47D6BD311F9ADE22000667C6</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>47D6BD321F9ADE22000667C6</string>
-				<string>47D6BD331F9ADE22000667C6</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>47D6BD321F9ADE22000667C6</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>0EB3DB37072BD57822365F91</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Travel MeetupUITests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>xyz.xaviloinaz.Travel-MeetupUITests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-				<key>TEST_TARGET_NAME</key>
-				<string>Travel Meetup</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>47D6BD331F9ADE22000667C6</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>EEFBAD76637B206BF60EEE9E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Travel MeetupUITests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>xyz.xaviloinaz.Travel-MeetupUITests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SWIFT_VERSION</key>
-				<string>3.0</string>
-				<key>TEST_TARGET_NAME</key>
-				<string>Travel Meetup</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>47D6BD341F9AF29F000667C6</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>PersonalProfileViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD351F9AF29F000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD341F9AF29F000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD361F9AF333000667C6</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>PeopleOnFlightViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD371F9AF333000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD361F9AF333000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD381F9AF3C7000667C6</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>EnterFlightInfoViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD391F9AF3C7000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD381F9AF3C7000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD3A1F9AF40D000667C6</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>SignupViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD3B1F9AF40D000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD3A1F9AF40D000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47D6BD3C1F9AF447000667C6</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>ChatViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47D6BD3D1F9AF447000667C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47D6BD3C1F9AF447000667C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>48E8830250B8602B113A7902</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods_Travel_MeetupUITests.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>57B7BE73B772B03F2E0CE03F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>70FD49436A493A9F91523200</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>70FD49436A493A9F91523200</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods_Travel_MeetupTests.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>7FEE79BB1F9AFDBB0018491A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>LogInViewController.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7FEE79BC1F9AFDBB0018491A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7FEE79BB1F9AFDBB0018491A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8791F8412D1FCF0F943ED5D2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Embed Pods Frameworks</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-Travel MeetupTests/Pods-Travel MeetupTests-frameworks.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>A68E0D832E3A99523E861C4C</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>DD484CC4B070CEBD647EFEE8</string>
-				<string>0F97EECB0D5ED2AF4012544D</string>
-				<string>FAC4E0DD1964AE908727935A</string>
-				<string>06EE0766B3AB038E76772607</string>
-				<string>0EB3DB37072BD57822365F91</string>
-				<string>EEFBAD76637B206BF60EEE9E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B264AC699CE896EAA45CD95B</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Check Pods Manifest.lock</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
-if [[ $? != 0 ]] ; then
-    cat &lt;&lt; EOM
-error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
-EOM
-    exit 1
-fi
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>C62B047196F142C4AACDAB5E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-Travel MeetupTests/Pods-Travel MeetupTests-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>CAB1BDA08BBA35C409260E45</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Embed Pods Frameworks</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup-frameworks.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>CE548D278BB9F88811199357</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Check Pods Manifest.lock</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
-if [[ $? != 0 ]] ; then
-    cat &lt;&lt; EOM
-error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
-EOM
-    exit 1
-fi
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>D5B3E016B5BE231D480D5D89</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Check Pods Manifest.lock</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
-if [[ $? != 0 ]] ; then
-    cat &lt;&lt; EOM
-error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
-EOM
-    exit 1
-fi
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>D7980A9AE42D1168336FCCCE</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>DD484CC4B070CEBD647EFEE8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Travel Meetup.debug.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DF0A25E6725777BF8E4BB789</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods_Travel_Meetup.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>E6D55ABC0321DFF85FAF3A3D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>DF0A25E6725777BF8E4BB789</string>
-				<string>70FD49436A493A9F91523200</string>
-				<string>48E8830250B8602B113A7902</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EE4E9BB52D6C1674567B95D1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>48E8830250B8602B113A7902</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EEFBAD76637B206BF60EEE9E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Travel MeetupUITests.release.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-Travel MeetupUITests/Pods-Travel MeetupUITests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FAC4E0DD1964AE908727935A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Travel MeetupTests.debug.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-Travel MeetupTests/Pods-Travel MeetupTests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FE73B8A0906074120ACE3D53</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-Travel MeetupUITests/Pods-Travel MeetupUITests-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>47D6BCFB1F9ADE22000667C6</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3A026AB2C1E47563AC72E0AD /* Pods_Travel_Meetup.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF0A25E6725777BF8E4BB789 /* Pods_Travel_Meetup.framework */; };
+		47D6BD071F9ADE22000667C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD061F9ADE22000667C6 /* AppDelegate.swift */; };
+		47D6BD091F9ADE22000667C6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD081F9ADE22000667C6 /* ViewController.swift */; };
+		47D6BD0C1F9ADE22000667C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47D6BD0A1F9ADE22000667C6 /* Main.storyboard */; };
+		47D6BD0E1F9ADE22000667C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47D6BD0D1F9ADE22000667C6 /* Assets.xcassets */; };
+		47D6BD111F9ADE22000667C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47D6BD0F1F9ADE22000667C6 /* LaunchScreen.storyboard */; };
+		47D6BD1C1F9ADE22000667C6 /* Travel_MeetupTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD1B1F9ADE22000667C6 /* Travel_MeetupTests.swift */; };
+		47D6BD271F9ADE22000667C6 /* Travel_MeetupUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD261F9ADE22000667C6 /* Travel_MeetupUITests.swift */; };
+		47D6BD351F9AF29F000667C6 /* PersonalProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */; };
+		47D6BD371F9AF333000667C6 /* PeopleOnFlightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */; };
+		47D6BD391F9AF3C7000667C6 /* EnterFlightInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */; };
+		47D6BD3B1F9AF40D000667C6 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */; };
+		47D6BD3D1F9AF447000667C6 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */; };
+		57B7BE73B772B03F2E0CE03F /* Pods_Travel_MeetupTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70FD49436A493A9F91523200 /* Pods_Travel_MeetupTests.framework */; };
+		7FEE79BC1F9AFDBB0018491A /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */; };
+		EE4E9BB52D6C1674567B95D1 /* Pods_Travel_MeetupUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48E8830250B8602B113A7902 /* Pods_Travel_MeetupUITests.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		47D6BD181F9ADE22000667C6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 47D6BCFB1F9ADE22000667C6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 47D6BD021F9ADE22000667C6;
+			remoteInfo = "Travel Meetup";
+		};
+		47D6BD231F9ADE22000667C6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 47D6BCFB1F9ADE22000667C6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 47D6BD021F9ADE22000667C6;
+			remoteInfo = "Travel Meetup";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		06EE0766B3AB038E76772607 /* Pods-Travel MeetupTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Travel MeetupTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Travel MeetupTests/Pods-Travel MeetupTests.release.xcconfig"; sourceTree = "<group>"; };
+		0EB3DB37072BD57822365F91 /* Pods-Travel MeetupUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Travel MeetupUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Travel MeetupUITests/Pods-Travel MeetupUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		0F97EECB0D5ED2AF4012544D /* Pods-Travel Meetup.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Travel Meetup.release.xcconfig"; path = "Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup.release.xcconfig"; sourceTree = "<group>"; };
+		47D6BD031F9ADE22000667C6 /* Travel Meetup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Travel Meetup.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		47D6BD061F9ADE22000667C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		47D6BD081F9ADE22000667C6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		47D6BD0B1F9ADE22000667C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		47D6BD0D1F9ADE22000667C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		47D6BD101F9ADE22000667C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		47D6BD121F9ADE22000667C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47D6BD171F9ADE22000667C6 /* Travel MeetupTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Travel MeetupTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		47D6BD1B1F9ADE22000667C6 /* Travel_MeetupTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Travel_MeetupTests.swift; sourceTree = "<group>"; };
+		47D6BD1D1F9ADE22000667C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47D6BD221F9ADE22000667C6 /* Travel MeetupUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Travel MeetupUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		47D6BD261F9ADE22000667C6 /* Travel_MeetupUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Travel_MeetupUITests.swift; sourceTree = "<group>"; };
+		47D6BD281F9ADE22000667C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonalProfileViewController.swift; sourceTree = "<group>"; };
+		47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeopleOnFlightViewController.swift; sourceTree = "<group>"; };
+		47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnterFlightInfoViewController.swift; sourceTree = "<group>"; };
+		47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		48E8830250B8602B113A7902 /* Pods_Travel_MeetupUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Travel_MeetupUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		70FD49436A493A9F91523200 /* Pods_Travel_MeetupTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Travel_MeetupTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
+		DD484CC4B070CEBD647EFEE8 /* Pods-Travel Meetup.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Travel Meetup.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup.debug.xcconfig"; sourceTree = "<group>"; };
+		DF0A25E6725777BF8E4BB789 /* Pods_Travel_Meetup.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Travel_Meetup.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEFBAD76637B206BF60EEE9E /* Pods-Travel MeetupUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Travel MeetupUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Travel MeetupUITests/Pods-Travel MeetupUITests.release.xcconfig"; sourceTree = "<group>"; };
+		FAC4E0DD1964AE908727935A /* Pods-Travel MeetupTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Travel MeetupTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Travel MeetupTests/Pods-Travel MeetupTests.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		47D6BD001F9ADE22000667C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A026AB2C1E47563AC72E0AD /* Pods_Travel_Meetup.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47D6BD141F9ADE22000667C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57B7BE73B772B03F2E0CE03F /* Pods_Travel_MeetupTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47D6BD1F1F9ADE22000667C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE4E9BB52D6C1674567B95D1 /* Pods_Travel_MeetupUITests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		47D6BCFA1F9ADE22000667C6 = {
+			isa = PBXGroup;
+			children = (
+				47D6BD051F9ADE22000667C6 /* Travel Meetup */,
+				47D6BD1A1F9ADE22000667C6 /* Travel MeetupTests */,
+				47D6BD251F9ADE22000667C6 /* Travel MeetupUITests */,
+				47D6BD041F9ADE22000667C6 /* Products */,
+				A68E0D832E3A99523E861C4C /* Pods */,
+				E6D55ABC0321DFF85FAF3A3D /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		47D6BD041F9ADE22000667C6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				47D6BD031F9ADE22000667C6 /* Travel Meetup.app */,
+				47D6BD171F9ADE22000667C6 /* Travel MeetupTests.xctest */,
+				47D6BD221F9ADE22000667C6 /* Travel MeetupUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		47D6BD051F9ADE22000667C6 /* Travel Meetup */ = {
+			isa = PBXGroup;
+			children = (
+				47D6BD061F9ADE22000667C6 /* AppDelegate.swift */,
+				47D6BD081F9ADE22000667C6 /* ViewController.swift */,
+				47D6BD0A1F9ADE22000667C6 /* Main.storyboard */,
+				47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */,
+				47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */,
+				47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */,
+				47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */,
+				47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */,
+				7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */,
+				47D6BD0D1F9ADE22000667C6 /* Assets.xcassets */,
+				47D6BD0F1F9ADE22000667C6 /* LaunchScreen.storyboard */,
+				47D6BD121F9ADE22000667C6 /* Info.plist */,
+			);
+			path = "Travel Meetup";
+			sourceTree = "<group>";
+		};
+		47D6BD1A1F9ADE22000667C6 /* Travel MeetupTests */ = {
+			isa = PBXGroup;
+			children = (
+				47D6BD1B1F9ADE22000667C6 /* Travel_MeetupTests.swift */,
+				47D6BD1D1F9ADE22000667C6 /* Info.plist */,
+			);
+			path = "Travel MeetupTests";
+			sourceTree = "<group>";
+		};
+		47D6BD251F9ADE22000667C6 /* Travel MeetupUITests */ = {
+			isa = PBXGroup;
+			children = (
+				47D6BD261F9ADE22000667C6 /* Travel_MeetupUITests.swift */,
+				47D6BD281F9ADE22000667C6 /* Info.plist */,
+			);
+			path = "Travel MeetupUITests";
+			sourceTree = "<group>";
+		};
+		A68E0D832E3A99523E861C4C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DD484CC4B070CEBD647EFEE8 /* Pods-Travel Meetup.debug.xcconfig */,
+				0F97EECB0D5ED2AF4012544D /* Pods-Travel Meetup.release.xcconfig */,
+				FAC4E0DD1964AE908727935A /* Pods-Travel MeetupTests.debug.xcconfig */,
+				06EE0766B3AB038E76772607 /* Pods-Travel MeetupTests.release.xcconfig */,
+				0EB3DB37072BD57822365F91 /* Pods-Travel MeetupUITests.debug.xcconfig */,
+				EEFBAD76637B206BF60EEE9E /* Pods-Travel MeetupUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		E6D55ABC0321DFF85FAF3A3D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DF0A25E6725777BF8E4BB789 /* Pods_Travel_Meetup.framework */,
+				70FD49436A493A9F91523200 /* Pods_Travel_MeetupTests.framework */,
+				48E8830250B8602B113A7902 /* Pods_Travel_MeetupUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		47D6BD021F9ADE22000667C6 /* Travel Meetup */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 47D6BD2B1F9ADE22000667C6 /* Build configuration list for PBXNativeTarget "Travel Meetup" */;
+			buildPhases = (
+				CE548D278BB9F88811199357 /* [CP] Check Pods Manifest.lock */,
+				47D6BCFF1F9ADE22000667C6 /* Sources */,
+				47D6BD001F9ADE22000667C6 /* Frameworks */,
+				47D6BD011F9ADE22000667C6 /* Resources */,
+				CAB1BDA08BBA35C409260E45 /* [CP] Embed Pods Frameworks */,
+				D7980A9AE42D1168336FCCCE /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Travel Meetup";
+			productName = "Travel Meetup";
+			productReference = 47D6BD031F9ADE22000667C6 /* Travel Meetup.app */;
+			productType = "com.apple.product-type.application";
+		};
+		47D6BD161F9ADE22000667C6 /* Travel MeetupTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 47D6BD2E1F9ADE22000667C6 /* Build configuration list for PBXNativeTarget "Travel MeetupTests" */;
+			buildPhases = (
+				B264AC699CE896EAA45CD95B /* [CP] Check Pods Manifest.lock */,
+				47D6BD131F9ADE22000667C6 /* Sources */,
+				47D6BD141F9ADE22000667C6 /* Frameworks */,
+				47D6BD151F9ADE22000667C6 /* Resources */,
+				8791F8412D1FCF0F943ED5D2 /* [CP] Embed Pods Frameworks */,
+				C62B047196F142C4AACDAB5E /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				47D6BD191F9ADE22000667C6 /* PBXTargetDependency */,
+			);
+			name = "Travel MeetupTests";
+			productName = "Travel MeetupTests";
+			productReference = 47D6BD171F9ADE22000667C6 /* Travel MeetupTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		47D6BD211F9ADE22000667C6 /* Travel MeetupUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 47D6BD311F9ADE22000667C6 /* Build configuration list for PBXNativeTarget "Travel MeetupUITests" */;
+			buildPhases = (
+				D5B3E016B5BE231D480D5D89 /* [CP] Check Pods Manifest.lock */,
+				47D6BD1E1F9ADE22000667C6 /* Sources */,
+				47D6BD1F1F9ADE22000667C6 /* Frameworks */,
+				47D6BD201F9ADE22000667C6 /* Resources */,
+				FE73B8A0906074120ACE3D53 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				47D6BD241F9ADE22000667C6 /* PBXTargetDependency */,
+			);
+			name = "Travel MeetupUITests";
+			productName = "Travel MeetupUITests";
+			productReference = 47D6BD221F9ADE22000667C6 /* Travel MeetupUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		47D6BCFB1F9ADE22000667C6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Xavi Loinaz";
+				TargetAttributes = {
+					47D6BD021F9ADE22000667C6 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					47D6BD161F9ADE22000667C6 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 47D6BD021F9ADE22000667C6;
+					};
+					47D6BD211F9ADE22000667C6 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 47D6BD021F9ADE22000667C6;
+					};
+				};
+			};
+			buildConfigurationList = 47D6BCFE1F9ADE22000667C6 /* Build configuration list for PBXProject "Travel Meetup" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 47D6BCFA1F9ADE22000667C6;
+			productRefGroup = 47D6BD041F9ADE22000667C6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				47D6BD021F9ADE22000667C6 /* Travel Meetup */,
+				47D6BD161F9ADE22000667C6 /* Travel MeetupTests */,
+				47D6BD211F9ADE22000667C6 /* Travel MeetupUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		47D6BD011F9ADE22000667C6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				47D6BD111F9ADE22000667C6 /* LaunchScreen.storyboard in Resources */,
+				47D6BD0E1F9ADE22000667C6 /* Assets.xcassets in Resources */,
+				47D6BD0C1F9ADE22000667C6 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47D6BD151F9ADE22000667C6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47D6BD201F9ADE22000667C6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8791F8412D1FCF0F943ED5D2 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Travel MeetupTests/Pods-Travel MeetupTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B264AC699CE896EAA45CD95B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C62B047196F142C4AACDAB5E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Travel MeetupTests/Pods-Travel MeetupTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CAB1BDA08BBA35C409260E45 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CE548D278BB9F88811199357 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D5B3E016B5BE231D480D5D89 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D7980A9AE42D1168336FCCCE /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FE73B8A0906074120ACE3D53 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Travel MeetupUITests/Pods-Travel MeetupUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		47D6BCFF1F9ADE22000667C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				47D6BD3B1F9AF40D000667C6 /* SignupViewController.swift in Sources */,
+				47D6BD371F9AF333000667C6 /* PeopleOnFlightViewController.swift in Sources */,
+				47D6BD091F9ADE22000667C6 /* ViewController.swift in Sources */,
+				47D6BD3D1F9AF447000667C6 /* ChatViewController.swift in Sources */,
+				7FEE79BC1F9AFDBB0018491A /* LogInViewController.swift in Sources */,
+				47D6BD351F9AF29F000667C6 /* PersonalProfileViewController.swift in Sources */,
+				47D6BD391F9AF3C7000667C6 /* EnterFlightInfoViewController.swift in Sources */,
+				47D6BD071F9ADE22000667C6 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47D6BD131F9ADE22000667C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				47D6BD1C1F9ADE22000667C6 /* Travel_MeetupTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47D6BD1E1F9ADE22000667C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				47D6BD271F9ADE22000667C6 /* Travel_MeetupUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		47D6BD191F9ADE22000667C6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 47D6BD021F9ADE22000667C6 /* Travel Meetup */;
+			targetProxy = 47D6BD181F9ADE22000667C6 /* PBXContainerItemProxy */;
+		};
+		47D6BD241F9ADE22000667C6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 47D6BD021F9ADE22000667C6 /* Travel Meetup */;
+			targetProxy = 47D6BD231F9ADE22000667C6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		47D6BD0A1F9ADE22000667C6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				47D6BD0B1F9ADE22000667C6 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		47D6BD0F1F9ADE22000667C6 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				47D6BD101F9ADE22000667C6 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		47D6BD291F9ADE22000667C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		47D6BD2A1F9ADE22000667C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		47D6BD2C1F9ADE22000667C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DD484CC4B070CEBD647EFEE8 /* Pods-Travel Meetup.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "Travel Meetup/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.xaviloinaz.Travel-Meetup";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		47D6BD2D1F9ADE22000667C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0F97EECB0D5ED2AF4012544D /* Pods-Travel Meetup.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "Travel Meetup/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.xaviloinaz.Travel-Meetup";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		47D6BD2F1F9ADE22000667C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FAC4E0DD1964AE908727935A /* Pods-Travel MeetupTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Travel MeetupTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.xaviloinaz.Travel-MeetupTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Travel Meetup.app/Travel Meetup";
+			};
+			name = Debug;
+		};
+		47D6BD301F9ADE22000667C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 06EE0766B3AB038E76772607 /* Pods-Travel MeetupTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Travel MeetupTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.xaviloinaz.Travel-MeetupTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Travel Meetup.app/Travel Meetup";
+			};
+			name = Release;
+		};
+		47D6BD321F9ADE22000667C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0EB3DB37072BD57822365F91 /* Pods-Travel MeetupUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "Travel MeetupUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.xaviloinaz.Travel-MeetupUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Travel Meetup";
+			};
+			name = Debug;
+		};
+		47D6BD331F9ADE22000667C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EEFBAD76637B206BF60EEE9E /* Pods-Travel MeetupUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "Travel MeetupUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.xaviloinaz.Travel-MeetupUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Travel Meetup";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		47D6BCFE1F9ADE22000667C6 /* Build configuration list for PBXProject "Travel Meetup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47D6BD291F9ADE22000667C6 /* Debug */,
+				47D6BD2A1F9ADE22000667C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		47D6BD2B1F9ADE22000667C6 /* Build configuration list for PBXNativeTarget "Travel Meetup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47D6BD2C1F9ADE22000667C6 /* Debug */,
+				47D6BD2D1F9ADE22000667C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		47D6BD2E1F9ADE22000667C6 /* Build configuration list for PBXNativeTarget "Travel MeetupTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47D6BD2F1F9ADE22000667C6 /* Debug */,
+				47D6BD301F9ADE22000667C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		47D6BD311F9ADE22000667C6 /* Build configuration list for PBXNativeTarget "Travel MeetupUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47D6BD321F9ADE22000667C6 /* Debug */,
+				47D6BD331F9ADE22000667C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 47D6BCFB1F9ADE22000667C6 /* Project object */;
+}
