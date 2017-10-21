@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="83c-sb-O0M">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -266,40 +266,12 @@
                     <connections>
                         <segue destination="gPE-G6-cwp" kind="relationship" relationship="viewControllers" id="unj-YT-ZJ5"/>
                         <segue destination="KIE-Ij-y9C" kind="relationship" relationship="viewControllers" id="6xS-Lh-cln"/>
-                        <segue destination="qzn-M7-vmD" kind="relationship" relationship="viewControllers" id="ojm-3H-851"/>
+                        <segue destination="xDI-Go-f8g" kind="relationship" relationship="viewControllers" id="dcb-Jr-fxi"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wvo-zb-aBk" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1762" y="1089"/>
-        </scene>
-        <!--Item-->
-        <scene sceneID="aYf-fI-Q9q">
-            <objects>
-                <viewController id="qzn-M7-vmD" customClass="PeopleOnFlightViewController" customModule="Travel_Meetup" customModuleProvider="target" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="f9v-r4-WMU"/>
-                        <viewControllerLayoutGuide type="bottom" id="OmX-Kp-8da"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="K2Z-Gu-qny">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="people on flight" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ob7-RM-mq7">
-                                <rect key="frame" x="137" y="323" width="120" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="PPt-vM-bZc"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="g5l-9D-zC5" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="3486" y="222"/>
         </scene>
         <!--Item-->
         <scene sceneID="NYB-T3-HeX">
@@ -328,6 +300,52 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Sfp-gW-hCT" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3486" y="2167"/>
+        </scene>
+        <!--Passengers On Flight-->
+        <scene sceneID="oYO-aA-PLk">
+            <objects>
+                <tableViewController id="83c-sb-O0M" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="K1l-Rt-kC7">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="0zS-bh-klP">
+                                <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="0zS-bh-klP" id="3lq-Xg-Ef7">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="83c-sb-O0M" id="YI9-yU-aAF"/>
+                            <outlet property="delegate" destination="83c-sb-O0M" id="JQa-nq-YtB"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Passengers On Flight" id="ZqQ-mv-kM9"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VMV-lS-KL5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3486" y="68"/>
+        </scene>
+        <!--Item-->
+        <scene sceneID="gqD-VY-Twj">
+            <objects>
+                <navigationController id="xDI-Go-f8g" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Item" id="9wo-db-rEF"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Abd-RY-aGJ">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="83c-sb-O0M" kind="relationship" relationship="rootViewController" id="isK-t3-dDe"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Yig-RJ-H3V" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2610" y="156"/>
         </scene>
         <!--Item-->
         <scene sceneID="9u1-Ho-6Be">
@@ -377,6 +395,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="RQC-Ca-FJS"/>
+        <segue reference="K4G-QP-0Cc"/>
     </inferredMetricsTieBreakers>
 </document>

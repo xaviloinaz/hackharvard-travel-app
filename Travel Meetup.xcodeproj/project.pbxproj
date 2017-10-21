@@ -16,10 +16,11 @@
 		47D6BD1C1F9ADE22000667C6 /* Travel_MeetupTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD1B1F9ADE22000667C6 /* Travel_MeetupTests.swift */; };
 		47D6BD271F9ADE22000667C6 /* Travel_MeetupUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD261F9ADE22000667C6 /* Travel_MeetupUITests.swift */; };
 		47D6BD351F9AF29F000667C6 /* PersonalProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */; };
-		47D6BD371F9AF333000667C6 /* PeopleOnFlightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */; };
 		47D6BD391F9AF3C7000667C6 /* EnterFlightInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */; };
 		47D6BD3B1F9AF40D000667C6 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */; };
 		47D6BD3D1F9AF447000667C6 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */; };
+		47ED577E1F9BD43000D5F8B4 /* FlightPassengersTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47ED577D1F9BD43000D5F8B4 /* FlightPassengersTableViewController.swift */; };
+		47ED57801F9BD50700D5F8B4 /* Passenger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47ED577F1F9BD50700D5F8B4 /* Passenger.swift */; };
 		57B7BE73B772B03F2E0CE03F /* Pods_Travel_MeetupTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70FD49436A493A9F91523200 /* Pods_Travel_MeetupTests.framework */; };
 		7FEE79BC1F9AFDBB0018491A /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */; };
 		EE4E9BB52D6C1674567B95D1 /* Pods_Travel_MeetupUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48E8830250B8602B113A7902 /* Pods_Travel_MeetupUITests.framework */; };
@@ -60,10 +61,11 @@
 		47D6BD261F9ADE22000667C6 /* Travel_MeetupUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Travel_MeetupUITests.swift; sourceTree = "<group>"; };
 		47D6BD281F9ADE22000667C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonalProfileViewController.swift; sourceTree = "<group>"; };
-		47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeopleOnFlightViewController.swift; sourceTree = "<group>"; };
 		47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnterFlightInfoViewController.swift; sourceTree = "<group>"; };
 		47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		47ED577D1F9BD43000D5F8B4 /* FlightPassengersTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightPassengersTableViewController.swift; sourceTree = "<group>"; };
+		47ED577F1F9BD50700D5F8B4 /* Passenger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Passenger.swift; sourceTree = "<group>"; };
 		48E8830250B8602B113A7902 /* Pods_Travel_MeetupUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Travel_MeetupUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		70FD49436A493A9F91523200 /* Pods_Travel_MeetupTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Travel_MeetupTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F0889FB1F9BCFD4009DF65C /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -134,7 +136,8 @@
 				47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */,
 				47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */,
 				47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */,
-				47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */,
+				47ED577D1F9BD43000D5F8B4 /* FlightPassengersTableViewController.swift */,
+				47ED577F1F9BD50700D5F8B4 /* Passenger.swift */,
 				47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */,
 				7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */,
 				47D6BD0D1F9ADE22000667C6 /* Assets.xcassets */,
@@ -451,10 +454,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				47D6BD3B1F9AF40D000667C6 /* SignupViewController.swift in Sources */,
-				47D6BD371F9AF333000667C6 /* PeopleOnFlightViewController.swift in Sources */,
 				47D6BD091F9ADE22000667C6 /* ViewController.swift in Sources */,
 				47D6BD3D1F9AF447000667C6 /* ChatViewController.swift in Sources */,
 				7FEE79BC1F9AFDBB0018491A /* LogInViewController.swift in Sources */,
+				47ED577E1F9BD43000D5F8B4 /* FlightPassengersTableViewController.swift in Sources */,
+				47ED57801F9BD50700D5F8B4 /* Passenger.swift in Sources */,
 				47D6BD351F9AF29F000667C6 /* PersonalProfileViewController.swift in Sources */,
 				47D6BD391F9AF3C7000667C6 /* EnterFlightInfoViewController.swift in Sources */,
 				47D6BD071F9ADE22000667C6 /* AppDelegate.swift in Sources */,
