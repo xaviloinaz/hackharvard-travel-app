@@ -66,6 +66,7 @@
 		47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		48E8830250B8602B113A7902 /* Pods_Travel_MeetupUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Travel_MeetupUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		70FD49436A493A9F91523200 /* Pods_Travel_MeetupTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Travel_MeetupTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F0889FB1F9BCFD4009DF65C /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		DD484CC4B070CEBD647EFEE8 /* Pods-Travel Meetup.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Travel Meetup.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Travel Meetup/Pods-Travel Meetup.debug.xcconfig"; sourceTree = "<group>"; };
 		DF0A25E6725777BF8E4BB789 /* Pods_Travel_Meetup.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Travel_Meetup.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -126,6 +127,7 @@
 		47D6BD051F9ADE22000667C6 /* Travel Meetup */ = {
 			isa = PBXGroup;
 			children = (
+				7F0889FB1F9BCFD4009DF65C /* GoogleService-Info.plist */,
 				47D6BD061F9ADE22000667C6 /* AppDelegate.swift */,
 				47D6BD081F9ADE22000667C6 /* ViewController.swift */,
 				47D6BD0A1F9ADE22000667C6 /* Main.storyboard */,
