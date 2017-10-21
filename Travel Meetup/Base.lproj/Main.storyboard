@@ -50,10 +50,10 @@
                 </viewController>
             </objects>
         </scene>
-        <!--View Controller-->
+        <!--Signup View Controller-->
         <scene sceneID="IjW-Wv-PGl">
             <objects>
-                <viewController id="fI5-Xr-CcA" sceneMemberID="viewController">
+                <viewController id="fI5-Xr-CcA" customClass="SignupViewController" customModule="Travel_Meetup" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ms8-uG-t86"/>
                         <viewControllerLayoutGuide type="bottom" id="gEp-bg-oZa"/>
@@ -77,10 +77,10 @@
             </objects>
             <point key="canvasLocation" x="-10.4" y="764.16791604197908"/>
         </scene>
-        <!--View Controller-->
+        <!--Enter Flight Info View Controller-->
         <scene sceneID="JrH-Ct-0T4">
             <objects>
-                <viewController id="Wzq-9M-vS3" sceneMemberID="viewController">
+                <viewController id="Wzq-9M-vS3" customClass="EnterFlightInfoViewController" customModule="Travel_Meetup" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="cbf-Z0-vz6"/>
                         <viewControllerLayoutGuide type="bottom" id="Akb-pm-Wzc"/>
@@ -126,7 +126,7 @@
         <!--Item-->
         <scene sceneID="aYf-fI-Q9q">
             <objects>
-                <viewController id="qzn-M7-vmD" sceneMemberID="viewController">
+                <viewController id="qzn-M7-vmD" customClass="PeopleOnFlightViewController" customModule="Travel_Meetup" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="f9v-r4-WMU"/>
                         <viewControllerLayoutGuide type="bottom" id="OmX-Kp-8da"/>
@@ -154,7 +154,7 @@
         <!--Item-->
         <scene sceneID="NYB-T3-HeX">
             <objects>
-                <viewController id="KIE-Ij-y9C" sceneMemberID="viewController">
+                <viewController id="KIE-Ij-y9C" customClass="ChatViewController" customModule="Travel_Meetup" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Gyn-xk-sBt"/>
                         <viewControllerLayoutGuide type="bottom" id="bpU-Ao-BfN"/>
@@ -163,8 +163,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="list of chats" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r9F-XM-D7t">
-                                <rect key="frame" x="137" y="286" width="89" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="chat" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r9F-XM-D7t">
+                                <rect key="frame" x="163" y="265" width="34" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -182,7 +182,7 @@
         <!--Item-->
         <scene sceneID="9u1-Ho-6Be">
             <objects>
-                <viewController id="gPE-G6-cwp" sceneMemberID="viewController">
+                <viewController id="gPE-G6-cwp" customClass="PersonalProfileViewController" customModule="Travel_Meetup" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="l2X-pn-GB5"/>
                         <viewControllerLayoutGuide type="bottom" id="5u0-uC-sV9"/>
@@ -205,7 +205,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qEC-bI-TfM" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3764" y="817"/>
+            <point key="canvasLocation" x="3874" y="600"/>
         </scene>
     </scenes>
 </document>

@@ -14,6 +14,11 @@
 		47D6BD111F9ADE22000667C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47D6BD0F1F9ADE22000667C6 /* LaunchScreen.storyboard */; };
 		47D6BD1C1F9ADE22000667C6 /* Travel_MeetupTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD1B1F9ADE22000667C6 /* Travel_MeetupTests.swift */; };
 		47D6BD271F9ADE22000667C6 /* Travel_MeetupUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD261F9ADE22000667C6 /* Travel_MeetupUITests.swift */; };
+		47D6BD351F9AF29F000667C6 /* PersonalProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */; };
+		47D6BD371F9AF333000667C6 /* PeopleOnFlightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */; };
+		47D6BD391F9AF3C7000667C6 /* EnterFlightInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */; };
+		47D6BD3B1F9AF40D000667C6 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */; };
+		47D6BD3D1F9AF447000667C6 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +52,11 @@
 		47D6BD221F9ADE22000667C6 /* Travel MeetupUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Travel MeetupUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47D6BD261F9ADE22000667C6 /* Travel_MeetupUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Travel_MeetupUITests.swift; sourceTree = "<group>"; };
 		47D6BD281F9ADE22000667C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonalProfileViewController.swift; sourceTree = "<group>"; };
+		47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeopleOnFlightViewController.swift; sourceTree = "<group>"; };
+		47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnterFlightInfoViewController.swift; sourceTree = "<group>"; };
+		47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +110,11 @@
 				47D6BD061F9ADE22000667C6 /* AppDelegate.swift */,
 				47D6BD081F9ADE22000667C6 /* ViewController.swift */,
 				47D6BD0A1F9ADE22000667C6 /* Main.storyboard */,
+				47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */,
+				47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */,
+				47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */,
+				47D6BD361F9AF333000667C6 /* PeopleOnFlightViewController.swift */,
+				47D6BD341F9AF29F000667C6 /* PersonalProfileViewController.swift */,
 				47D6BD0D1F9ADE22000667C6 /* Assets.xcassets */,
 				47D6BD0F1F9ADE22000667C6 /* LaunchScreen.storyboard */,
 				47D6BD121F9ADE22000667C6 /* Info.plist */,
@@ -259,7 +274,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47D6BD3B1F9AF40D000667C6 /* SignupViewController.swift in Sources */,
+				47D6BD371F9AF333000667C6 /* PeopleOnFlightViewController.swift in Sources */,
 				47D6BD091F9ADE22000667C6 /* ViewController.swift in Sources */,
+				47D6BD3D1F9AF447000667C6 /* ChatViewController.swift in Sources */,
+				47D6BD351F9AF29F000667C6 /* PersonalProfileViewController.swift in Sources */,
+				47D6BD391F9AF3C7000667C6 /* EnterFlightInfoViewController.swift in Sources */,
 				47D6BD071F9ADE22000667C6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -507,6 +527,7 @@
 				47D6BD2D1F9ADE22000667C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		47D6BD2E1F9ADE22000667C6 /* Build configuration list for PBXNativeTarget "Travel MeetupTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +536,7 @@
 				47D6BD301F9ADE22000667C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		47D6BD311F9ADE22000667C6 /* Build configuration list for PBXNativeTarget "Travel MeetupUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +545,7 @@
 				47D6BD331F9ADE22000667C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
