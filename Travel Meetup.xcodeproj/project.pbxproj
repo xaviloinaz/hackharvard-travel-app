@@ -19,6 +19,7 @@
 		47D6BD391F9AF3C7000667C6 /* EnterFlightInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */; };
 		47D6BD3B1F9AF40D000667C6 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */; };
 		47D6BD3D1F9AF447000667C6 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */; };
+		7FEE79BC1F9AFDBB0018491A /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		47D6BD381F9AF3C7000667C6 /* EnterFlightInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnterFlightInfoViewController.swift; sourceTree = "<group>"; };
 		47D6BD3A1F9AF40D000667C6 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		47D6BD3C1F9AF447000667C6 /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				47D6BD0D1F9ADE22000667C6 /* Assets.xcassets */,
 				47D6BD0F1F9ADE22000667C6 /* LaunchScreen.storyboard */,
 				47D6BD121F9ADE22000667C6 /* Info.plist */,
+				7FEE79BB1F9AFDBB0018491A /* LogInViewController.swift */,
 			);
 			path = "Travel Meetup";
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				47D6BD371F9AF333000667C6 /* PeopleOnFlightViewController.swift in Sources */,
 				47D6BD091F9ADE22000667C6 /* ViewController.swift in Sources */,
 				47D6BD3D1F9AF447000667C6 /* ChatViewController.swift in Sources */,
+				7FEE79BC1F9AFDBB0018491A /* LogInViewController.swift in Sources */,
 				47D6BD351F9AF29F000667C6 /* PersonalProfileViewController.swift in Sources */,
 				47D6BD391F9AF3C7000667C6 /* EnterFlightInfoViewController.swift in Sources */,
 				47D6BD071F9ADE22000667C6 /* AppDelegate.swift in Sources */,
