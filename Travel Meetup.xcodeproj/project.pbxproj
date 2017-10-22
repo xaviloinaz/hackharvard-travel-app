@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3A026AB2C1E47563AC72E0AD /* Pods_Travel_Meetup.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF0A25E6725777BF8E4BB789 /* Pods_Travel_Meetup.framework */; };
+		475782AA1F9C208E00BAF555 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7F0889FB1F9BCFD4009DF65C /* GoogleService-Info.plist */; };
 		47D6BD071F9ADE22000667C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD061F9ADE22000667C6 /* AppDelegate.swift */; };
 		47D6BD091F9ADE22000667C6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D6BD081F9ADE22000667C6 /* ViewController.swift */; };
 		47D6BD0C1F9ADE22000667C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47D6BD0A1F9ADE22000667C6 /* Main.storyboard */; };
@@ -310,6 +311,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				47D6BD111F9ADE22000667C6 /* LaunchScreen.storyboard in Resources */,
+				475782AA1F9C208E00BAF555 /* GoogleService-Info.plist in Resources */,
 				47D6BD0E1F9ADE22000667C6 /* Assets.xcassets in Resources */,
 				47D6BD0C1F9ADE22000667C6 /* Main.storyboard in Resources */,
 			);
