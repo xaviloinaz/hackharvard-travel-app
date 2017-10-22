@@ -10,6 +10,9 @@ import UIKit
 
 class FlightPassengersTableViewController: UITableViewController {
 
+    var flightPassengers : [Passenger] = [Passenger(name: "Bob", gender: "Male", age: 18, bio: "I'm a romantic", purposeOfTrip: "On a journey to find my partner", lookingFor: "I'm looking for love"), Passenger(name: "Ramon", gender: "Male", age: 33, bio: "bla", purposeOfTrip: "bla", lookingFor: "bla")]
+    
+    
     
     
     
@@ -38,18 +41,37 @@ class FlightPassengersTableViewController: UITableViewController {
 
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // #warning Incomplete implementation, return the number of rows
-        return 0
+        return flightPassengers.count
     }
 
-    /*
-    override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "reuseIdentifier", for: indexPath)
 
+    override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        
+//         let cell = tableView.dequeueReusableCell(withIdentifier: "passengerId", for: indexPath)
         // Configure the cell...
+//        let cell = tableView.dequeueReusableCell(withIdentifier: "passengerId", for: indexPath) as! FlightPassengersTableViewCell
+//        cell.passengerName.text = "something different"
+        
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: "passengerId", for: indexPath) as? FlightPassengersTableViewCell else{
+            fatalError("The cell is not of the type FlightPassengersTableViewCell")
+        }
+        
+        
+        
+        let passenger = flightPassengers[indexPath.row]
+        cell.passengerName.text = passenger.name
+        
+        
+        
+//        let destinationViewController = PassengerProfileViewController()
+//        destinationViewController.passenger = passenger
+        
+//        destinationViewController.performSegue(withIdentifier: "toPassengerProfile", sender: self)
+        
 
         return cell
     }
-    */
+ 
 
     /*
     // Override to support conditional editing of the table view.
@@ -86,14 +108,22 @@ class FlightPassengersTableViewController: UITableViewController {
     }
     */
 
-    /*
+    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let indexPath : NSIndexPath = self.tableView.indexPathForSelectedRow! as NSIndexPath
+        let passenger = flightPassengers[indexPath.row]
+        let destinationViewController = segue.destination as! PassengerProfileViewController
+        destinationViewController.passenger = passenger
+        
+        
+        
+        
         // Get the new view controller using segue.destinationViewController.
         // Pass the selected object to the new view controller.
     }
-    */
+
 
 }
